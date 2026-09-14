@@ -1,0 +1,46 @@
+{
+  "airtable": {
+    "baseId": "appUQD5s85N9VIguX",
+    "scheduleTableId": "tblQrGbVhsiqGNZhr",
+    "scheduleViewId": "viw06jzSjqRlRApTZ",
+    "coursesTableId": "tblocdRif2UUQjqRf",
+    "coursesViewId": "viw7xhOr5D1fnD2KV"
+  },
+
+  "timezone": "America/New_York",
+
+  "includeStatuses": ["Confirmed", ""],
+
+  "includeUnlinkedEvents": false,
+
+  "bookingLinkOverrides": {
+    "PEB/SP": null,
+    "BF/SP": null,
+    "NBC/SP": null
+  },
+
+  "noBookingLinkFallback": {
+    "type": "contact",
+    "href": "mailto:info@littlebelliesspa.com",
+    "label_en": "Ask about this class",
+    "label_es": "Consultar sobre esta clase"
+  },
+
+  "defaultLanguage": "all",
+
+  "languageOrder": ["English", "Spanish"],
+
+  "courseOrder": [
+    "EP/EN",
+    "PEB/EN",
+    "C&C/EN",
+    "BF/EN",
+    "NBC/EN",
+    "ISB/EN",
+    "PMH/EN",
+    "YOGA/EN",
+    "PEB/SP",
+    "BF/SP",
+    "NBC/SP"
+  ]
+}
