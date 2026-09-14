@@ -70,7 +70,7 @@ console.log("Fetching schedule…");
 const eventRecords = await fetchAll(baseId, scheduleTableId, scheduleViewId, SCHEDULE_FIELDS);
 console.log(`  ${eventRecords.length} schedule record(s)`);
 
-const { payload, warnings, dropped } = buildPayload({ courseRecords, eventRecords, config });
+const { payload, warnings, dropped, samples } = buildPayload({ courseRecords, eventRecords, config });
 
 const serialised = JSON.stringify(payload);
 for (const needle of ["@gmail", "@yahoo", "@hotmail", "@outlook", "Email"]) {
@@ -114,6 +114,16 @@ console.log(
   `  skipped — past: ${dropped.past}, status: ${dropped.status}, ` +
     `no course record: ${dropped.unlinked}, unparseable date: ${dropped.unparsed}`
 );
+
+if (dropped.unparsed) {
+  console.error(
+    `\n${dropped.unparsed} event(s) had a "Class Time" this script could not read.` +
+      ` Sample values: ${samples.unparsed.join(", ")}`
+  );
+}
+if (samples.unlinked.length) {
+  console.log(`  class types with no course record: ${samples.unlinked.join(", ")}`);
+}
 
 if (warnings.length) {
   console.log("\nWarnings:");
