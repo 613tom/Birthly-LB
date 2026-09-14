@@ -1,6 +1,1378 @@
 {
-  "generatedAt": "2026-09-14T21:08:45.012Z",
+  "generatedAt": "2026-09-14T21:23:06.207Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-16T21:08:45.012Z",
-  "courses": []
+  "horizon": "2027-01-16T21:23:06.207Z",
+  "courses": [
+    {
+      "code": "EP/EN",
+      "name": "Early Pregnancy Preparations",
+      "description": "Introductory first-trimester roadmap covering typical pregnancy milestones, fetal development, body changes, common discomforts, nutrition, exercise, and care for the birthing parent.",
+      "language": "English",
+      "sessions": "1 session",
+      "duration": "90 minutes",
+      "topics": "8 key topics",
+      "category": "Early Pregnancy",
+      "image": "https://www.mybirthly.com/wp-content/uploads/early-pregnancy-prep.jpeg",
+      "bookingLink": "https://mybirthly.vhx.tv/products/early-pregnancy-preparations-live-classes",
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-09-16T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-09-23T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-09-30T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-10-07T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-10-14T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-10-21T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-10-28T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-11-04T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-11-11T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-11-18T23:30:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PEB/EN",
+      "name": "Prenatal Education Bootcamp",
+      "description": "5-hour series covering labor and delivery, medical interventions, contractions, going to the birthing facility, late-pregnancy health, and postpartum strategies.",
+      "language": "English",
+      "sessions": "2 sessions",
+      "duration": "5 hours",
+      "topics": "10 key topics",
+      "category": "Second Trimester • Third Trimester",
+      "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
+      "bookingLink": "https://mybirthly.vhx.tv/products/prenatal-education-bootcamp-live-classes",
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Anne Hoover",
+          "sessions": [
+            "2026-09-14T22:30:00.000Z",
+            "2026-09-15T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-09-19T14:00:00.000Z",
+            "2026-09-20T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anne Hoover",
+          "sessions": [
+            "2026-09-21T22:30:00.000Z",
+            "2026-09-22T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-09-24T01:30:00.000Z",
+            "2026-09-25T01:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anne Hoover",
+          "sessions": [
+            "2026-09-26T18:00:00.000Z",
+            "2026-09-27T18:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-10-03T14:00:00.000Z",
+            "2026-10-04T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anne Hoover",
+          "sessions": [
+            "2026-10-07T22:30:00.000Z",
+            "2026-10-08T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anne Hoover",
+          "sessions": [
+            "2026-10-12T22:30:00.000Z",
+            "2026-10-13T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-10-15T01:30:00.000Z",
+            "2026-10-16T01:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-10-22T01:30:00.000Z",
+            "2026-10-23T01:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anne Hoover",
+          "sessions": [
+            "2026-10-26T22:30:00.000Z",
+            "2026-10-27T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-11-05T02:30:00.000Z",
+            "2026-11-06T02:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-11-14T15:00:00.000Z",
+            "2026-11-15T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-11-19T02:30:00.000Z",
+            "2026-11-20T02:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anne Hoover",
+          "sessions": [
+            "2026-11-21T19:30:00.000Z",
+            "2026-11-22T19:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anne Hoover",
+          "sessions": [
+            "2026-11-24T23:30:00.000Z",
+            "2026-11-25T23:30:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C&C/EN",
+      "name": "Coping and Comfort",
+      "description": "Experiential labor-preparation class focused on non-pharmacological pain-management tools, including breath, movement, touch, vocalization, and partner support.",
+      "language": "English",
+      "sessions": "1 session",
+      "duration": "90 minutes",
+      "topics": "5 key topics",
+      "category": "Second Trimester • Third Trimester",
+      "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-3.jpg",
+      "bookingLink": "https://mybirthly.vhx.tv/products/coping-and-comfort-live-classes",
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-09-19T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-09-23T01:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-09-27T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-10-01T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-10-10T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-10-13T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-10-18T20:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-10-24T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-11-07T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-11-11T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-11-16T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-11-22T21:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-11-28T15:00:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "BF/EN",
+      "name": "Breastfeeding 101",
+      "description": "Expert breastfeeding guidance covering breastfeeding science, latch, feeding basics, troubleshooting, and what to expect immediately after birth.",
+      "language": "English",
+      "sessions": "1 session",
+      "duration": "2 hours",
+      "topics": "9 key topics",
+      "category": "Third Trimester • Breastfeeding • Newborn Care",
+      "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
+      "bookingLink": "https://mybirthly.vhx.tv/products/breastfeeding-101-live-classes",
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-09-14T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-09-16T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-09-21T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Meagan Curry",
+          "sessions": [
+            "2026-09-26T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-09-28T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-09-30T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-10-02T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-10-05T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-10-09T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-10-12T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Meagan Curry",
+          "sessions": [
+            "2026-10-17T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-10-21T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Meagan Curry",
+          "sessions": [
+            "2026-10-23T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-10-28T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-10-30T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-11-02T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-11-04T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-11-10T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-11-11T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-11-16T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-11-18T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Meagan Curry",
+          "sessions": [
+            "2026-11-21T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-11-23T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-11-30T23:30:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NBC/EN",
+      "name": "Newborn Care",
+      "description": "Practical newborn-care class covering the fourth trimester, normal newborn behavior, bathing, diapering, swaddling, soothing, feeding, sleeping, and parenting basics.",
+      "language": "English",
+      "sessions": "1 session",
+      "duration": "2 hours",
+      "topics": "8 key topics",
+      "category": "Third Trimester • Newborn Care",
+      "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
+      "bookingLink": "https://mybirthly.vhx.tv/products/newborn-care-live-classes",
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-09-14T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-09-18T01:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-10-01T01:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-10-03T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-10-06T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-10-09T01:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-10-20T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-10-24T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-10-26T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-10-30T01:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-11-03T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-11-13T02:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-11-14T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-11-17T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-11-21T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-11-24T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-12-01T02:30:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISB/EN",
+      "name": "Infant Safety Basics",
+      "description": "Evidence-based infant and toddler safety class covering car safety, safe sleep/SIDS, water safety, fire safety, and injury prevention.",
+      "language": "English",
+      "sessions": "1 session",
+      "duration": "90 minutes",
+      "topics": "7 key topics",
+      "category": "Third Trimester • Newborn Care",
+      "image": "https://www.mybirthly.com/wp-content/uploads/Infant-Safety-Basics-Class-Image-scaled.png",
+      "bookingLink": "https://mybirthly.vhx.tv/products/infant-safety-basics-live-classes",
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-09-24T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-10-08T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-10-11T20:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-10-29T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-11-08T21:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-11-12T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-11-20T23:30:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PMH/EN",
+      "name": "Perinatal Mental Health",
+      "description": "Class covering perinatal mood and anxiety disorders, risk factors, depression, anxiety, psychosis, self-care, support systems, and getting help.",
+      "language": "English",
+      "sessions": "1 session",
+      "duration": "90 minutes",
+      "topics": "8 key topics",
+      "category": "Early Pregnancy • Second Trimester • Third Trimester",
+      "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/PMH.webp",
+      "bookingLink": "https://mybirthly.vhx.tv/products/perinatal-mental-health-live-classes",
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-09-15T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-09-22T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-09-28T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-10-06T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-10-12T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-10-20T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-10-27T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-11-02T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-11-10T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-11-19T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Gabrielle Hathaway",
+          "sessions": [
+            "2026-11-30T23:30:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "YOGA/EN",
+      "name": "Pre/Postnatal Movement & Mindfulness",
+      "description": "Repeatable movement and mindfulness class combining breathwork and movement to support the mind, body, and heart during pregnancy, labor, birth, and after delivery.",
+      "language": "English",
+      "sessions": "Repeatable",
+      "duration": "60 minutes",
+      "topics": "1 focus",
+      "category": "All Trimesters + Post Delivery",
+      "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-14.jpg",
+      "bookingLink": "https://mybirthly.vhx.tv/products/live-classes-prenatal-yoga",
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-09-16T00:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-09-17T12:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-09-23T00:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-09-24T12:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-09-30T00:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-10-01T12:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-10-07T00:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-10-08T12:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-10-14T00:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-10-15T12:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-10-21T00:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-10-22T12:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-10-28T00:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-10-29T12:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-11-04T01:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-11-05T13:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-11-11T01:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-11-12T13:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-11-18T01:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-11-19T13:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-11-25T01:00:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PEB/SP",
+      "name": "Bootcamp Prenatal",
+      "description": "Serie de 5 horas que cubre el trabajo de parto y nacimiento, intervenciones médicas, contracciones, cuándo ir al hospital y estrategias para el posparto.",
+      "language": "Spanish",
+      "sessions": "2 sesiones",
+      "duration": "5 horas",
+      "topics": "10 temas clave",
+      "category": "Segundo trimestre • Tercer trimestre",
+      "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/hero-contact-min-scaled.jpg",
+      "bookingLink": null,
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Ana Greene",
+          "sessions": [
+            "2026-10-08T00:00:00.000Z",
+            "2026-10-09T00:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Ana Greene",
+          "sessions": [
+            "2026-10-24T14:00:00.000Z",
+            "2026-10-25T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Ana Greene",
+          "sessions": [
+            "2026-11-12T01:00:00.000Z",
+            "2026-11-13T01:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Ana Greene",
+          "sessions": [
+            "2026-11-14T15:00:00.000Z",
+            "2026-11-15T15:00:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "BF/SP",
+      "name": "Lactancia 101",
+      "description": "Asesoramiento experto e instrucciones sobre lactancia, agarre, frecuencia de las tomas, complicaciones, nutrición, suministro, almacenamiento y apoyo continuo.",
+      "language": "Spanish",
+      "sessions": "1 sesión",
+      "duration": "2 horas",
+      "topics": "10 temas clave",
+      "category": "",
+      "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
+      "bookingLink": null,
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Paula Rosello",
+          "sessions": [
+            "2026-09-26T17:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Paula Rosello",
+          "sessions": [
+            "2026-09-30T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Paula Rosello",
+          "sessions": [
+            "2026-10-10T17:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Paula Rosello",
+          "sessions": [
+            "2026-10-17T17:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Paula Rosello",
+          "sessions": [
+            "2026-10-21T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Paula Rosello",
+          "sessions": [
+            "2026-11-04T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Paula Rosello",
+          "sessions": [
+            "2026-11-14T18:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Paula Rosello",
+          "sessions": [
+            "2026-11-21T18:00:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NBC/SP",
+      "name": "Cuidado del Recién Nacido",
+      "description": "Clase sobre el cuarto trimestre, comportamiento del bebé, cuidados básicos, alimentación, sueño, cómo calmar al bebé, rutinas, autocuidado y trabajo en equipo.",
+      "language": "Spanish",
+      "sessions": "1 sesión",
+      "duration": "2 horas",
+      "topics": "9 temas clave",
+      "category": "",
+      "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
+      "bookingLink": null,
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Puri Carvajal",
+          "sessions": [
+            "2026-09-24T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Erika Perez",
+          "sessions": [
+            "2026-09-27T17:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Puri Carvajal",
+          "sessions": [
+            "2026-10-08T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Erika Perez",
+          "sessions": [
+            "2026-10-11T17:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Puri Carvajal",
+          "sessions": [
+            "2026-10-22T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Erika Perez",
+          "sessions": [
+            "2026-10-25T17:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Puri Carvajal",
+          "sessions": [
+            "2026-11-05T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Erika Perez",
+          "sessions": [
+            "2026-11-15T18:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Puri Carvajal",
+          "sessions": [
+            "2026-11-19T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Erika Perez",
+          "sessions": [
+            "2026-11-22T18:00:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "Community Session: Fatherhood",
+      "name": "Community Session: Fatherhood",
+      "description": "",
+      "language": "",
+      "sessions": "",
+      "duration": "",
+      "topics": "",
+      "category": "",
+      "image": "",
+      "bookingLink": null,
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Rachel Latchford ",
+          "sessions": [
+            "2026-09-15T00:00:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AH Induction",
+      "name": "AH Induction",
+      "description": "",
+      "language": "",
+      "sessions": "",
+      "duration": "",
+      "topics": "",
+      "category": "",
+      "image": "",
+      "bookingLink": null,
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-09-15T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-09-20T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-09-29T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-10-11T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-10-20T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-10-27T22:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-11-02T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-11-09T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-11-15T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-11-22T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jill Villemain",
+          "sessions": [
+            "2026-11-30T23:30:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "Community Session: Creating a Postpartum Plan",
+      "name": "Community Session: Creating a Postpartum Plan",
+      "description": "",
+      "language": "",
+      "sessions": "",
+      "duration": "",
+      "topics": "",
+      "category": "",
+      "image": "",
+      "bookingLink": null,
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-09-24T22:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-10-19T22:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-11-16T23:00:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "Community Session: Understanding Your Milk Supply",
+      "name": "Community Session: Understanding Your Milk Supply",
+      "description": "",
+      "language": "",
+      "sessions": "",
+      "duration": "",
+      "topics": "",
+      "category": "",
+      "image": "",
+      "bookingLink": null,
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Meagan Curry",
+          "sessions": [
+            "2026-09-25T23:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Meagan Curry",
+          "sessions": [
+            "2026-10-16T23:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Meagan Curry",
+          "sessions": [
+            "2026-11-21T00:00:00.000Z"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "Community Session: Infant Massage and Benefits",
+      "name": "Community Session: Infant Massage and Benefits",
+      "description": "",
+      "language": "",
+      "sessions": "",
+      "duration": "",
+      "topics": "",
+      "category": "",
+      "image": "",
+      "bookingLink": null,
+      "offerings": [
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-10-06T23:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-11-24T00:00:00.000Z"
+          ]
+        }
+      ]
+    }
+  ]
 }
