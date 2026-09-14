@@ -31,16 +31,36 @@ export function wallTimeToInstant(y, mo, d, h, mi, timeZone) {
   return new Date(utc);
 }
 
+/**
+ * Airtable's API returns date fields as ISO 8601 (`2026-09-14T22:30:00.000Z`),
+ * while a CSV export renders them in the field's display format
+ * (`9/14/2026 6:30pm`). Accept both — an ISO string is already an absolute
+ * instant and needs no timezone interpretation; the display format is wall-clock
+ * time in the studio's zone and does.
+ */
 export function parseClassTime(raw, timeZone) {
   if (!raw) return null;
-  const m = String(raw)
-    .trim()
-    .match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})\s+(\d{1,2}):(\d{2})\s*([ap]m)$/i);
-  if (!m) return null;
-  const [, mo, d, y, hh, mi, ap] = m;
-  let hour = Number(hh) % 12;
-  if (ap.toLowerCase() === "pm") hour += 12;
-  return wallTimeToInstant(Number(y), Number(mo), Number(d), hour, Number(mi), timeZone);
+  const s = String(raw).trim();
+
+  if (/^\d{4}-\d{2}-\d{2}T/.test(s)) {
+    const d = new Date(s);
+    return isNaN(d) ? null : d;
+  }
+
+  if (/^\d{4}-\d{2}-\d{2}$/.test(s)) {
+    const [y, mo, d] = s.split("-").map(Number);
+    return wallTimeToInstant(y, mo, d, 0, 0, timeZone);
+  }
+
+  const m = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})(?:\s+(\d{1,2}):(\d{2})\s*([ap])\.?m\.?)?$/i);
+  if (m) {
+    const [, mo, d, y, hh, mi, ap] = m;
+    let hour = hh ? Number(hh) % 12 : 0;
+    if (ap && ap.toLowerCase() === "p") hour += 12;
+    return wallTimeToInstant(Number(y), Number(mo), Number(d), hour, Number(mi || 0), timeZone);
+  }
+
+  return null;
 }
 
 function dayKey(instant, timeZone) {
@@ -151,6 +171,7 @@ export function buildPayload({ courseRecords, eventRecords, config, now = new Da
 
   const byCourse = new Map();
   let dropped = { past: 0, status: 0, unlinked: 0, unparsed: 0 };
+  const samples = { unparsed: [], unlinked: [], status: [] };
 
   for (const r of eventRecords) {
     const f = r.fields || {};
@@ -159,6 +180,7 @@ export function buildPayload({ courseRecords, eventRecords, config, now = new Da
 
     if (!instant) {
       dropped.unparsed++;
+      if (samples.unparsed.length < 3) samples.unparsed.push(JSON.stringify(f["Class Time"]));
       continue;
     }
     if (instant < now) {
@@ -169,10 +191,12 @@ export function buildPayload({ courseRecords, eventRecords, config, now = new Da
     const status = f["Status"] == null ? "" : String(f["Status"]);
     if (!config.includeStatuses.includes(status)) {
       dropped.status++;
+      if (samples.status.length < 3) samples.status.push(JSON.stringify(status));
       continue;
     }
     if (!courses.has(code)) {
       dropped.unlinked++;
+      if (samples.unlinked.length < 3) samples.unlinked.push(JSON.stringify(code));
       if (!config.includeUnlinkedEvents) continue;
     }
 
@@ -238,6 +262,7 @@ export function buildPayload({ courseRecords, eventRecords, config, now = new Da
 
   const horizon = new Date(now.getTime() + MONTH_MS * 4);
   return {
+    samples,
     payload: {
       generatedAt: now.toISOString(),
       timezone: tz,
