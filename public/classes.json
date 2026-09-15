@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T23:51:55.779Z",
+  "generatedAt": "2026-09-15T04:52:51.953Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-16T23:51:55.779Z",
+  "horizon": "2027-01-17T04:52:51.953Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -1145,27 +1145,6 @@
           "instructor": "Erika Perez",
           "sessions": [
             "2026-11-22T18:00:00.000Z"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "Community Session: Fatherhood",
-      "name": "Community Session: Fatherhood",
-      "description": "",
-      "language": "",
-      "sessions": "",
-      "duration": "",
-      "topics": "",
-      "category": "",
-      "image": "",
-      "bookingLink": null,
-      "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Rachel Latchford ",
-          "sessions": [
-            "2026-09-15T00:00:00.000Z"
           ]
         }
       ]
