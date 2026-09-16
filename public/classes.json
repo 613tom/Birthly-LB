@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T22:13:08.988Z",
+  "generatedAt": "2026-09-16T00:19:30.300Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-17T22:13:08.988Z",
+  "horizon": "2027-01-18T00:19:30.300Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -99,13 +99,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
       "bookingLink": "https://mybirthly.vhx.tv/products/prenatal-education-bootcamp-live-classes",
       "offerings": [
-        {
-          "incomplete": true,
-          "instructor": "Anne Hoover",
-          "sessions": [
-            "2026-09-15T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Cali Judson",
@@ -713,13 +706,6 @@
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
           "sessions": [
-            "2026-09-15T22:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Gabrielle Hathaway",
-          "sessions": [
             "2026-09-22T22:30:00.000Z"
           ]
         },
@@ -800,13 +786,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-14.jpg",
       "bookingLink": "https://mybirthly.vhx.tv/products/live-classes-prenatal-yoga",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jen Stewart",
-          "sessions": [
-            "2026-09-16T00:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jen Stewart",
@@ -1161,13 +1140,6 @@
       "image": "",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-09-15T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jill Villemain",
