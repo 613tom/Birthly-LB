@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T04:49:07.865Z",
+  "generatedAt": "2026-09-19T14:24:20.596Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-20T04:49:07.865Z",
+  "horizon": "2027-01-21T14:24:20.596Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -93,10 +93,9 @@
       "bookingLink": "https://mybirthly.vhx.tv/products/prenatal-education-bootcamp-live-classes",
       "offerings": [
         {
-          "incomplete": false,
+          "incomplete": true,
           "instructor": "Cali Judson",
           "sessions": [
-            "2026-09-19T14:00:00.000Z",
             "2026-09-20T14:00:00.000Z"
           ]
         },
@@ -226,13 +225,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-3.jpg",
       "bookingLink": "https://mybirthly.vhx.tv/products/coping-and-comfort-live-classes",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Leigh Kader",
-          "sessions": [
-            "2026-09-19T14:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Leigh Kader",
