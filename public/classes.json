@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-19T14:24:20.596Z",
+  "generatedAt": "2026-09-20T16:04:12.090Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-21T14:24:20.596Z",
+  "horizon": "2027-01-22T16:04:12.090Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -92,13 +92,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
       "bookingLink": "https://mybirthly.vhx.tv/products/prenatal-education-bootcamp-live-classes",
       "offerings": [
-        {
-          "incomplete": true,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-09-20T14:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anne Hoover",
@@ -1104,13 +1097,6 @@
       "image": "",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-09-20T14:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jill Villemain",
