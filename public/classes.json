@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T00:05:56.106Z",
+  "generatedAt": "2026-09-22T17:46:11.313Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-24T00:05:56.106Z",
+  "horizon": "2027-01-24T17:46:11.313Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -13,7 +13,7 @@
       "topics": "8 key topics",
       "category": "Early Pregnancy",
       "image": "https://www.mybirthly.com/wp-content/uploads/early-pregnancy-prep.jpeg",
-      "bookingLink": "https://mybirthly.vhx.tv/products/early-pregnancy-preparations-live-classes",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/early-pregnancy-preparations-live-classes/purchase?purchase=1",
       "offerings": [
         {
           "incomplete": false,
@@ -215,7 +215,7 @@
       "topics": "5 key topics",
       "category": "Second Trimester • Third Trimester",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-3.jpg",
-      "bookingLink": "https://mybirthly.vhx.tv/products/coping-and-comfort-live-classes",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/coping-and-comfort-live-classes/purchase?purchase=1",
       "offerings": [
         {
           "incomplete": false,
@@ -593,7 +593,7 @@
       "topics": "7 key topics",
       "category": "Third Trimester • Newborn Care",
       "image": "https://www.mybirthly.com/wp-content/uploads/Infant-Safety-Basics-Class-Image-scaled.png",
-      "bookingLink": "https://mybirthly.vhx.tv/products/infant-safety-basics-live-classes",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/infant-safety-basics-live-classes/purchase?purchase=1",
       "offerings": [
         {
           "incomplete": false,
@@ -656,7 +656,7 @@
       "topics": "8 key topics",
       "category": "Early Pregnancy • Second Trimester • Third Trimester",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/PMH.webp",
-      "bookingLink": "https://mybirthly.vhx.tv/products/perinatal-mental-health-live-classes",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/perinatal-mental-health-live-classes/purchase?purchase=1",
       "offerings": [
         {
           "incomplete": false,
@@ -740,7 +740,7 @@
       "topics": "1 focus",
       "category": "All Trimesters + Post Delivery",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-14.jpg",
-      "bookingLink": "https://mybirthly.vhx.tv/products/live-classes-prenatal-yoga",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/live-classes-prenatal-yoga/purchase?purchase=1",
       "offerings": [
         {
           "incomplete": false,
