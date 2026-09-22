@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-20T16:04:12.090Z",
+  "generatedAt": "2026-09-22T00:05:56.106Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-22T16:04:12.090Z",
+  "horizon": "2027-01-24T00:05:56.106Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -93,10 +93,9 @@
       "bookingLink": "https://mybirthly.vhx.tv/products/prenatal-education-bootcamp-live-classes",
       "offerings": [
         {
-          "incomplete": false,
+          "incomplete": true,
           "instructor": "Anne Hoover",
           "sessions": [
-            "2026-09-21T22:30:00.000Z",
             "2026-09-22T22:30:00.000Z"
           ]
         },
@@ -316,13 +315,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": "https://mybirthly.vhx.tv/products/breastfeeding-101-live-classes",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Samantha Kauffman",
-          "sessions": [
-            "2026-09-21T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Meagan Curry",
