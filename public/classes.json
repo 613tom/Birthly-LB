@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T18:53:37.201Z",
+  "generatedAt": "2026-09-22T22:07:47.129Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-24T18:53:37.201Z",
+  "horizon": "2027-01-24T22:07:47.129Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -711,14 +711,14 @@
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
           "sessions": [
-            "2026-11-10T23:30:00.000Z"
+            "2026-11-19T23:30:00.000Z"
           ]
         },
         {
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
           "sessions": [
-            "2026-11-19T23:30:00.000Z"
+            "2026-11-23T23:30:00.000Z"
           ]
         },
         {
@@ -1073,181 +1073,6 @@
           "instructor": "Erika Perez",
           "sessions": [
             "2026-11-22T18:00:00.000Z"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "AH Induction",
-      "name": "AH Induction",
-      "description": "",
-      "language": "",
-      "sessions": "",
-      "duration": "",
-      "topics": "",
-      "category": "",
-      "image": "",
-      "bookingLink": null,
-      "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-09-29T22:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-10-11T14:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-10-20T22:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-10-27T22:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-11-02T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-11-09T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-11-15T15:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-11-22T15:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jill Villemain",
-          "sessions": [
-            "2026-11-30T23:30:00.000Z"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "Community Session: Creating a Postpartum Plan",
-      "name": "Community Session: Creating a Postpartum Plan",
-      "description": "",
-      "language": "",
-      "sessions": "",
-      "duration": "",
-      "topics": "",
-      "category": "",
-      "image": "",
-      "bookingLink": null,
-      "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-09-24T22:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-10-19T22:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-11-16T23:00:00.000Z"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "Community Session: Understanding Your Milk Supply",
-      "name": "Community Session: Understanding Your Milk Supply",
-      "description": "",
-      "language": "",
-      "sessions": "",
-      "duration": "",
-      "topics": "",
-      "category": "",
-      "image": "",
-      "bookingLink": null,
-      "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Meagan Curry",
-          "sessions": [
-            "2026-09-25T23:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Meagan Curry",
-          "sessions": [
-            "2026-10-16T23:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Meagan Curry",
-          "sessions": [
-            "2026-11-21T00:00:00.000Z"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "Community Session: Infant Massage and Benefits",
-      "name": "Community Session: Infant Massage and Benefits",
-      "description": "",
-      "language": "",
-      "sessions": "",
-      "duration": "",
-      "topics": "",
-      "category": "",
-      "image": "",
-      "bookingLink": null,
-      "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Samantha Kauffman",
-          "sessions": [
-            "2026-10-06T23:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Samantha Kauffman",
-          "sessions": [
-            "2026-11-24T00:00:00.000Z"
           ]
         }
       ]
