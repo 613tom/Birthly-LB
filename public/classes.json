@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T17:46:11.313Z",
+  "generatedAt": "2026-09-22T18:53:37.201Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-24T17:46:11.313Z",
+  "horizon": "2027-01-24T18:53:37.201Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -90,7 +90,7 @@
       "topics": "10 key topics",
       "category": "Second Trimester • Third Trimester",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
-      "bookingLink": "https://mybirthly.vhx.tv/products/prenatal-education-bootcamp-live-classes",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1",
       "offerings": [
         {
           "incomplete": true,
@@ -313,7 +313,7 @@
       "topics": "9 key topics",
       "category": "Third Trimester • Breastfeeding • Newborn Care",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
-      "bookingLink": "https://mybirthly.vhx.tv/products/breastfeeding-101-live-classes",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1",
       "offerings": [
         {
           "incomplete": false,
@@ -474,7 +474,7 @@
       "topics": "8 key topics",
       "category": "Third Trimester • Newborn Care",
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
-      "bookingLink": "https://mybirthly.vhx.tv/products/newborn-care-live-classes",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1",
       "offerings": [
         {
           "incomplete": false,
