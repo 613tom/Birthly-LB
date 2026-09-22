@@ -125,6 +125,7 @@ if (samples.unlinked.length) {
   console.log(`  class types with no course record: ${samples.unlinked.join(", ")}`);
 }
 
+
 if (warnings.length) {
   console.log("\nWarnings:");
   for (const w of warnings) console.log(`  - ${w}`);
