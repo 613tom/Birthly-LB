@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T05:57:40.505Z",
+  "generatedAt": "2026-09-23T23:40:56.805Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-25T05:57:40.505Z",
+  "horizon": "2027-01-25T23:40:56.805Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -15,13 +15,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/early-pregnancy-prep.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/early-pregnancy-preparations-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Anna King",
-          "sessions": [
-            "2026-09-23T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anna King",
