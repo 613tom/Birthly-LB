@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T07:46:43.077Z",
+  "generatedAt": "2026-09-25T18:35:23.330Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-27T07:46:43.077Z",
+  "horizon": "2027-01-27T18:35:23.330Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -330,6 +330,13 @@
         },
         {
           "incomplete": false,
+          "instructor": "Meagan Curry",
+          "sessions": [
+            "2026-10-10T14:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
           "instructor": "Alex Strouse",
           "sessions": [
             "2026-10-12T22:30:00.000Z"
@@ -508,6 +515,20 @@
           "instructor": "Jenny Selig",
           "sessions": [
             "2026-11-03T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Rachel Latchford ",
+          "sessions": [
+            "2026-11-06T01:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Rachel Latchford ",
+          "sessions": [
+            "2026-11-11T01:00:00.000Z"
           ]
         },
         {
