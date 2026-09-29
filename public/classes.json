@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T18:22:51.770Z",
+  "generatedAt": "2026-09-29T01:56:02.610Z",
   "timezone": "America/New_York",
-  "horizon": "2027-01-29T18:22:51.770Z",
+  "horizon": "2027-01-31T01:56:02.610Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -271,13 +271,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Alex Strouse",
-          "sessions": [
-            "2026-09-28T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Samantha Kauffman",
@@ -621,13 +614,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/PMH.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/perinatal-mental-health-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Gabrielle Hathaway",
-          "sessions": [
-            "2026-09-28T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
