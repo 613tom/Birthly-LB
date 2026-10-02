@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T23:11:25.052Z",
+  "generatedAt": "2026-10-02T02:14:31.819Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-02T23:11:25.052Z",
+  "horizon": "2027-02-03T02:14:31.819Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -795,8 +795,8 @@
           "incomplete": false,
           "instructor": "Ana Greene",
           "sessions": [
-            "2026-11-12T01:00:00.000Z",
-            "2026-11-13T01:00:00.000Z"
+            "2026-11-11T01:00:00.000Z",
+            "2026-11-12T01:00:00.000Z"
           ]
         },
         {
