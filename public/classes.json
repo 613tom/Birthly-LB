@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T00:29:01.372Z",
+  "generatedAt": "2026-10-03T17:15:44.416Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-04T00:29:01.372Z",
+  "horizon": "2027-02-04T17:15:44.416Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -79,10 +79,9 @@
       "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1",
       "offerings": [
         {
-          "incomplete": false,
+          "incomplete": true,
           "instructor": "Cali Judson",
           "sessions": [
-            "2026-10-03T14:00:00.000Z",
             "2026-10-04T14:00:00.000Z"
           ]
         },
@@ -397,13 +396,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-10-03T14:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jenny Selig",
