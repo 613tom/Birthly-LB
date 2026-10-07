@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T20:18:35.320Z",
+  "generatedAt": "2026-10-07T00:40:59.046Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-07T20:18:35.320Z",
+  "horizon": "2027-02-08T00:40:59.046Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -83,6 +83,13 @@
           "instructor": "Anna King",
           "sessions": [
             "2026-12-16T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Anna King",
+          "sessions": [
+            "2026-12-30T23:30:00.000Z"
           ]
         }
       ]
@@ -181,18 +188,18 @@
         },
         {
           "incomplete": false,
-          "instructor": "Cali Judson",
+          "instructor": "Anne Hoover",
           "sessions": [
-            "2026-12-03T02:30:00.000Z",
-            "2026-12-04T02:30:00.000Z"
+            "2026-12-01T23:30:00.000Z",
+            "2026-12-02T23:30:00.000Z"
           ]
         },
         {
           "incomplete": false,
           "instructor": "Cali Judson",
           "sessions": [
-            "2026-12-12T15:00:00.000Z",
-            "2026-12-13T15:00:00.000Z"
+            "2026-12-10T02:30:00.000Z",
+            "2026-12-11T02:30:00.000Z"
           ]
         },
         {
@@ -205,10 +212,10 @@
         },
         {
           "incomplete": false,
-          "instructor": "Anne Hoover",
+          "instructor": "Cali Judson",
           "sessions": [
-            "2026-12-19T19:30:00.000Z",
-            "2026-12-20T19:30:00.000Z"
+            "2026-12-19T15:00:00.000Z",
+            "2026-12-20T15:00:00.000Z"
           ]
         },
         {
@@ -217,6 +224,14 @@
           "sessions": [
             "2026-12-22T23:30:00.000Z",
             "2026-12-23T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Samantha Kauffman",
+          "sessions": [
+            "2026-12-28T23:30:00.000Z",
+            "2026-12-29T23:30:00.000Z"
           ]
         }
       ]
@@ -314,21 +329,28 @@
           "incomplete": false,
           "instructor": "Leigh Kader",
           "sessions": [
-            "2026-12-14T23:30:00.000Z"
+            "2026-12-13T21:00:00.000Z"
           ]
         },
         {
           "incomplete": false,
           "instructor": "Leigh Kader",
           "sessions": [
-            "2026-12-20T21:00:00.000Z"
+            "2026-12-19T15:00:00.000Z"
           ]
         },
         {
           "incomplete": false,
           "instructor": "Leigh Kader",
           "sessions": [
-            "2026-12-26T15:00:00.000Z"
+            "2026-12-21T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Leigh Kader",
+          "sessions": [
+            "2026-12-30T23:30:00.000Z"
           ]
         }
       ]
@@ -473,6 +495,13 @@
         },
         {
           "incomplete": false,
+          "instructor": "Meagan Curry",
+          "sessions": [
+            "2026-12-05T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
           "instructor": "Samantha Kauffman",
           "sessions": [
             "2026-12-07T23:30:00.000Z"
@@ -480,23 +509,9 @@
         },
         {
           "incomplete": false,
-          "instructor": "Samantha Kauffman",
-          "sessions": [
-            "2026-12-08T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
           "instructor": "Alex Strouse",
           "sessions": [
-            "2026-12-09T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Samantha Kauffman",
-          "sessions": [
-            "2026-12-14T23:30:00.000Z"
+            "2026-12-11T23:30:00.000Z"
           ]
         },
         {
@@ -524,7 +539,7 @@
           "incomplete": false,
           "instructor": "Alex Strouse",
           "sessions": [
-            "2026-12-28T23:30:00.000Z"
+            "2026-12-30T23:30:00.000Z"
           ]
         }
       ]
@@ -541,13 +556,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-10-06T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Cali Judson",
@@ -662,6 +670,13 @@
         },
         {
           "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
+            "2026-12-05T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
           "instructor": "Rachel Latchford ",
           "sessions": [
             "2026-12-09T01:00:00.000Z"
@@ -671,26 +686,12 @@
           "incomplete": false,
           "instructor": "Cali Judson",
           "sessions": [
-            "2026-12-11T02:30:00.000Z"
+            "2026-12-15T02:30:00.000Z"
           ]
         },
         {
           "incomplete": false,
           "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-12-12T15:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-12-15T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Cali Judson",
           "sessions": [
             "2026-12-19T15:00:00.000Z"
           ]
@@ -704,9 +705,9 @@
         },
         {
           "incomplete": false,
-          "instructor": "Cali Judson",
+          "instructor": "Jenny Selig",
           "sessions": [
-            "2026-12-29T02:30:00.000Z"
+            "2026-12-29T23:30:00.000Z"
           ]
         }
       ]
@@ -767,6 +768,13 @@
         },
         {
           "incomplete": false,
+          "instructor": "",
+          "sessions": [
+            "2026-12-05T18:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
           "instructor": "Anna King",
           "sessions": [
             "2026-12-06T21:00:00.000Z"
@@ -800,13 +808,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/PMH.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/perinatal-mental-health-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Gabrielle Hathaway",
-          "sessions": [
-            "2026-10-06T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
@@ -898,13 +899,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-14.jpg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/live-classes-prenatal-yoga/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jen Stewart",
-          "sessions": [
-            "2026-10-07T00:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jen Stewart",
@@ -1051,6 +1045,27 @@
           "sessions": [
             "2026-12-23T01:00:00.000Z"
           ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-12-24T13:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-12-30T01:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jen Stewart",
+          "sessions": [
+            "2026-12-31T13:00:00.000Z"
+          ]
         }
       ]
     },
@@ -1110,8 +1125,8 @@
           "incomplete": false,
           "instructor": "Ana Greene",
           "sessions": [
-            "2026-12-12T15:00:00.000Z",
-            "2026-12-13T15:00:00.000Z"
+            "2026-12-19T15:00:00.000Z",
+            "2026-12-20T15:00:00.000Z"
           ]
         }
       ]
@@ -1272,7 +1287,7 @@
           "incomplete": false,
           "instructor": "Erika Perez",
           "sessions": [
-            "2026-12-13T18:00:00.000Z"
+            "2026-12-06T18:00:00.000Z"
           ]
         },
         {
