@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T00:40:59.046Z",
+  "generatedAt": "2026-10-08T00:59:04.235Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-08T00:40:59.046Z",
+  "horizon": "2027-02-09T00:59:04.235Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -15,13 +15,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/early-pregnancy-prep.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/early-pregnancy-preparations-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Anna King",
-          "sessions": [
-            "2026-10-07T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anna King",
@@ -106,14 +99,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Anne Hoover",
-          "sessions": [
-            "2026-10-07T22:30:00.000Z",
-            "2026-10-08T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Cali Judson",
@@ -656,13 +641,6 @@
         },
         {
           "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-12-01T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
           "instructor": "Rachel Latchford ",
           "sessions": [
             "2026-12-04T01:00:00.000Z"
@@ -687,6 +665,13 @@
           "instructor": "Cali Judson",
           "sessions": [
             "2026-12-15T02:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Jenny Selig",
+          "sessions": [
+            "2026-12-15T23:30:00.000Z"
           ]
         },
         {
@@ -768,9 +753,9 @@
         },
         {
           "incomplete": false,
-          "instructor": "",
+          "instructor": "Anna King",
           "sessions": [
-            "2026-12-05T18:00:00.000Z"
+            "2026-12-03T23:30:00.000Z"
           ]
         },
         {
@@ -784,14 +769,14 @@
           "incomplete": false,
           "instructor": "Anna King",
           "sessions": [
-            "2026-12-10T23:30:00.000Z"
+            "2026-12-18T23:30:00.000Z"
           ]
         },
         {
           "incomplete": false,
           "instructor": "Anna King",
           "sessions": [
-            "2026-12-18T23:30:00.000Z"
+            "2026-12-20T21:00:00.000Z"
           ]
         }
       ]
@@ -1082,10 +1067,9 @@
       "bookingLink": null,
       "offerings": [
         {
-          "incomplete": false,
+          "incomplete": true,
           "instructor": "Ana Greene",
           "sessions": [
-            "2026-10-08T00:00:00.000Z",
             "2026-10-09T00:00:00.000Z"
           ]
         },
