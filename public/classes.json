@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T15:35:09.832Z",
+  "generatedAt": "2026-10-09T02:08:08.060Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-09T15:35:09.832Z",
+  "horizon": "2027-02-10T02:08:08.060Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -99,13 +99,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": true,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-10-09T01:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anne Hoover",
@@ -712,13 +705,6 @@
           "incomplete": false,
           "instructor": "Anna King",
           "sessions": [
-            "2026-10-08T22:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Anna King",
-          "sessions": [
             "2026-10-11T20:00:00.000Z"
           ]
         },
@@ -817,7 +803,7 @@
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
           "sessions": [
-            "2026-11-02T23:30:00.000Z"
+            "2026-11-09T23:30:00.000Z"
           ]
         },
         {
@@ -1059,13 +1045,6 @@
       "bookingLink": null,
       "offerings": [
         {
-          "incomplete": true,
-          "instructor": "Ana Greene",
-          "sessions": [
-            "2026-10-09T00:00:00.000Z"
-          ]
-        },
-        {
           "incomplete": false,
           "instructor": "Ana Greene",
           "sessions": [
@@ -1101,8 +1080,8 @@
           "incomplete": false,
           "instructor": "Ana Greene",
           "sessions": [
-            "2026-12-19T15:00:00.000Z",
-            "2026-12-20T15:00:00.000Z"
+            "2026-12-12T15:00:00.000Z",
+            "2026-12-13T15:00:00.000Z"
           ]
         }
       ]
@@ -1196,13 +1175,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Puri Carvajal",
-          "sessions": [
-            "2026-10-08T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Erika Perez",
