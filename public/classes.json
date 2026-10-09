@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T02:08:08.060Z",
+  "generatedAt": "2026-10-09T09:01:31.393Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-10T02:08:08.060Z",
+  "horizon": "2027-02-10T09:01:31.393Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -175,6 +175,14 @@
           "incomplete": false,
           "instructor": "Cali Judson",
           "sessions": [
+            "2026-12-05T15:00:00.000Z",
+            "2026-12-06T15:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Cali Judson",
+          "sessions": [
             "2026-12-10T02:30:00.000Z",
             "2026-12-11T02:30:00.000Z"
           ]
@@ -185,14 +193,6 @@
           "sessions": [
             "2026-12-17T02:30:00.000Z",
             "2026-12-18T02:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-12-19T15:00:00.000Z",
-            "2026-12-20T15:00:00.000Z"
           ]
         },
         {
@@ -640,23 +640,9 @@
         },
         {
           "incomplete": false,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-12-05T15:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
           "instructor": "Rachel Latchford ",
           "sessions": [
             "2026-12-09T01:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-12-15T02:30:00.000Z"
           ]
         },
         {
