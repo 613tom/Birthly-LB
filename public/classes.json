@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T00:49:08.996Z",
+  "generatedAt": "2026-10-10T18:33:57.600Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-11T00:49:08.996Z",
+  "horizon": "2027-02-11T18:33:57.600Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -229,13 +229,6 @@
           "incomplete": false,
           "instructor": "Leigh Kader",
           "sessions": [
-            "2026-10-10T15:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Leigh Kader",
-          "sessions": [
             "2026-10-13T22:30:00.000Z"
           ]
         },
@@ -344,13 +337,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Meagan Curry",
-          "sessions": [
-            "2026-10-10T14:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Alex Strouse",
@@ -1077,13 +1063,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Paula Rosello",
-          "sessions": [
-            "2026-10-10T17:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Paula Rosello",
