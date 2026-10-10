@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T09:01:31.393Z",
+  "generatedAt": "2026-10-10T00:49:08.996Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-10T09:01:31.393Z",
+  "horizon": "2027-02-11T00:49:08.996Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -344,13 +344,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Alex Strouse",
-          "sessions": [
-            "2026-10-09T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Meagan Curry",
