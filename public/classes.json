@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T20:14:58.664Z",
+  "generatedAt": "2026-10-12T22:57:42.380Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-12T20:14:58.664Z",
+  "horizon": "2027-02-13T22:57:42.380Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -99,14 +99,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Anne Hoover",
-          "sessions": [
-            "2026-10-12T22:30:00.000Z",
-            "2026-10-13T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Cali Judson",
@@ -337,13 +329,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Alex Strouse",
-          "sessions": [
-            "2026-10-12T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Meagan Curry",
@@ -736,13 +721,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/PMH.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/perinatal-mental-health-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Gabrielle Hathaway",
-          "sessions": [
-            "2026-10-12T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
