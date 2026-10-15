@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T23:12:47.617Z",
+  "generatedAt": "2026-10-15T07:24:31.546Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-15T23:12:47.617Z",
+  "horizon": "2027-02-16T07:24:31.546Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -483,13 +483,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-10-15T01:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jenny Selig",
