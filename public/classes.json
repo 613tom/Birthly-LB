@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T13:24:23.081Z",
+  "generatedAt": "2026-10-16T00:23:34.315Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-16T13:24:23.081Z",
+  "horizon": "2027-02-17T00:23:34.315Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -69,13 +69,6 @@
           "instructor": "Anna King",
           "sessions": [
             "2026-12-16T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Anna King",
-          "sessions": [
-            "2026-12-30T23:30:00.000Z"
           ]
         }
       ]
@@ -424,7 +417,7 @@
           "incomplete": false,
           "instructor": "Meagan Curry",
           "sessions": [
-            "2026-12-05T15:00:00.000Z"
+            "2026-12-04T15:00:00.000Z"
           ]
         },
         {
@@ -443,16 +436,16 @@
         },
         {
           "incomplete": false,
-          "instructor": "Alex Strouse",
+          "instructor": "Meagan Curry",
           "sessions": [
-            "2026-12-16T23:30:00.000Z"
+            "2026-12-12T15:00:00.000Z"
           ]
         },
         {
           "incomplete": false,
-          "instructor": "Meagan Curry",
+          "instructor": "Alex Strouse",
           "sessions": [
-            "2026-12-19T15:00:00.000Z"
+            "2026-12-16T23:30:00.000Z"
           ]
         },
         {
@@ -656,13 +649,6 @@
           "instructor": "Anna King",
           "sessions": [
             "2026-11-20T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Anna King",
-          "sessions": [
-            "2026-12-03T23:30:00.000Z"
           ]
         },
         {
@@ -1094,6 +1080,13 @@
           "incomplete": false,
           "instructor": "Erika Perez",
           "sessions": [
+            "2026-11-08T18:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Erika Perez",
+          "sessions": [
             "2026-11-15T18:00:00.000Z"
           ]
         },
@@ -1102,13 +1095,6 @@
           "instructor": "Puri Carvajal",
           "sessions": [
             "2026-11-19T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Erika Perez",
-          "sessions": [
-            "2026-11-22T18:00:00.000Z"
           ]
         },
         {
