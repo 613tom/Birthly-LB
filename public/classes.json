@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T00:23:34.315Z",
+  "generatedAt": "2026-10-17T15:32:08.636Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-17T00:23:34.315Z",
+  "horizon": "2027-02-18T15:32:08.636Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -308,13 +308,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Meagan Curry",
-          "sessions": [
-            "2026-10-17T14:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Samantha Kauffman",
