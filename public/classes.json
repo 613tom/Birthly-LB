@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T19:21:37.025Z",
+  "generatedAt": "2026-10-21T01:34:08.354Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-20T19:21:37.025Z",
+  "horizon": "2027-02-22T01:34:08.354Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -456,13 +456,6 @@
       "offerings": [
         {
           "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-10-20T22:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
           "instructor": "Cali Judson",
           "sessions": [
             "2026-10-24T14:00:00.000Z"
@@ -547,9 +540,9 @@
         },
         {
           "incomplete": false,
-          "instructor": "Rachel Latchford ",
+          "instructor": "Jenny Selig",
           "sessions": [
-            "2026-12-04T01:00:00.000Z"
+            "2026-12-03T23:30:00.000Z"
           ]
         },
         {
@@ -563,28 +556,35 @@
           "incomplete": false,
           "instructor": "Jenny Selig",
           "sessions": [
-            "2026-12-15T23:30:00.000Z"
+            "2026-12-10T23:30:00.000Z"
           ]
         },
         {
           "incomplete": false,
           "instructor": "Jenny Selig",
           "sessions": [
-            "2026-12-19T15:00:00.000Z"
+            "2026-12-12T15:00:00.000Z"
           ]
         },
         {
           "incomplete": false,
           "instructor": "Jenny Selig",
           "sessions": [
-            "2026-12-22T23:30:00.000Z"
+            "2026-12-17T23:30:00.000Z"
           ]
         },
         {
           "incomplete": false,
-          "instructor": "Jenny Selig",
+          "instructor": "Rachel Latchford ",
           "sessions": [
-            "2026-12-29T23:30:00.000Z"
+            "2026-12-22T01:00:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Rachel Latchford ",
+          "sessions": [
+            "2026-12-30T01:00:00.000Z"
           ]
         }
       ]
@@ -668,13 +668,6 @@
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
           "sessions": [
-            "2026-10-20T22:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Gabrielle Hathaway",
-          "sessions": [
             "2026-10-27T22:30:00.000Z"
           ]
         },
@@ -748,13 +741,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-14.jpg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/live-classes-prenatal-yoga/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jen Stewart",
-          "sessions": [
-            "2026-10-21T00:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jen Stewart",
