@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T13:46:20.273Z",
+  "generatedAt": "2026-10-23T01:29:36.299Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-23T13:46:20.273Z",
+  "horizon": "2027-02-24T01:29:36.299Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -983,13 +983,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Erika Perez",
-          "sessions": [
-            "2026-10-22T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Erika Perez",
