@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T00:40:23.390Z",
+  "generatedAt": "2026-10-24T14:30:54.374Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-25T00:40:23.390Z",
+  "horizon": "2027-02-25T14:30:54.374Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -425,13 +425,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-10-24T14:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jenny Selig",
@@ -860,10 +853,9 @@
       "bookingLink": null,
       "offerings": [
         {
-          "incomplete": false,
+          "incomplete": true,
           "instructor": "Ana Greene",
           "sessions": [
-            "2026-10-24T14:00:00.000Z",
             "2026-10-25T14:00:00.000Z"
           ]
         },
