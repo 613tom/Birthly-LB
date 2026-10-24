@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T14:30:54.374Z",
+  "generatedAt": "2026-10-24T18:07:31.815Z",
   "timezone": "America/New_York",
-  "horizon": "2027-02-25T14:30:54.374Z",
+  "horizon": "2027-02-25T18:07:31.815Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -180,13 +180,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-3.jpg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/coping-and-comfort-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Leigh Kader",
-          "sessions": [
-            "2026-10-24T15:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Leigh Kader",
