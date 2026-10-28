@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T08:27:14.772Z",
+  "generatedAt": "2026-10-28T21:01:51.348Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-01T08:27:14.772Z",
+  "horizon": "2027-03-01T21:01:51.348Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -191,7 +191,7 @@
           "incomplete": false,
           "instructor": "Leigh Kader",
           "sessions": [
-            "2026-11-09T23:30:00.000Z"
+            "2026-11-12T23:30:00.000Z"
           ]
         },
         {
