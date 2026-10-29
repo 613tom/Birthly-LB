@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T19:40:02.254Z",
+  "generatedAt": "2026-10-29T23:56:26.802Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-02T19:40:02.254Z",
+  "horizon": "2027-03-02T23:56:26.802Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -530,13 +530,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/Infant-Safety-Basics-Class-Image-scaled.png",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/infant-safety-basics-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Anna King",
-          "sessions": [
-            "2026-10-29T22:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anna King",
