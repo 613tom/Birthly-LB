@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T05:44:54.538Z",
+  "generatedAt": "2026-10-30T18:35:43.844Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-03T05:44:54.538Z",
+  "horizon": "2027-03-03T18:35:43.844Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -436,7 +436,7 @@
           "incomplete": false,
           "instructor": "Jenny Selig",
           "sessions": [
-            "2026-11-17T23:30:00.000Z"
+            "2026-11-19T23:30:00.000Z"
           ]
         },
         {
@@ -450,7 +450,7 @@
           "incomplete": false,
           "instructor": "Jenny Selig",
           "sessions": [
-            "2026-11-24T23:30:00.000Z"
+            "2026-11-25T23:30:00.000Z"
           ]
         },
         {
