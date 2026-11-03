@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T22:57:25.495Z",
+  "generatedAt": "2026-11-03T02:54:19.523Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-03T22:57:25.495Z",
+  "horizon": "2027-03-07T02:54:19.523Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -266,13 +266,6 @@
       "offerings": [
         {
           "incomplete": false,
-          "instructor": "Samantha Kauffman",
-          "sessions": [
-            "2026-11-02T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
           "instructor": "Alex Strouse",
           "sessions": [
             "2026-11-04T23:30:00.000Z"
@@ -360,6 +353,13 @@
           "instructor": "Alex Strouse",
           "sessions": [
             "2026-12-16T23:30:00.000Z"
+          ]
+        },
+        {
+          "incomplete": false,
+          "instructor": "Alex Strouse",
+          "sessions": [
+            "2026-12-18T23:30:00.000Z"
           ]
         },
         {
