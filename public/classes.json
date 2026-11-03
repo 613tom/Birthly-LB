@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T02:54:19.523Z",
+  "generatedAt": "2026-11-03T18:25:35.929Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-07T02:54:19.523Z",
+  "horizon": "2027-03-07T18:25:35.929Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -115,8 +115,8 @@
           "incomplete": false,
           "instructor": "Anne Hoover",
           "sessions": [
-            "2026-12-01T23:30:00.000Z",
-            "2026-12-02T23:30:00.000Z"
+            "2026-12-02T23:30:00.000Z",
+            "2026-12-03T23:30:00.000Z"
           ]
         },
         {
@@ -462,13 +462,6 @@
         },
         {
           "incomplete": false,
-          "instructor": "Rachel Latchford ",
-          "sessions": [
-            "2026-12-09T01:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
           "instructor": "Jenny Selig",
           "sessions": [
             "2026-12-10T23:30:00.000Z"
@@ -486,20 +479,6 @@
           "instructor": "Jenny Selig",
           "sessions": [
             "2026-12-17T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Rachel Latchford ",
-          "sessions": [
-            "2026-12-22T01:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Rachel Latchford ",
-          "sessions": [
-            "2026-12-30T01:00:00.000Z"
           ]
         }
       ]
