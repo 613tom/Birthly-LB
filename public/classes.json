@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T23:58:01.301Z",
+  "generatedAt": "2026-11-04T06:17:01.171Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-07T23:58:01.301Z",
+  "horizon": "2027-03-08T06:17:01.171Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -614,13 +614,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-14.jpg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/live-classes-prenatal-yoga/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jen Stewart",
-          "sessions": [
-            "2026-11-04T01:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jen Stewart",
