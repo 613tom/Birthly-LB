@@ -13,6 +13,8 @@
 
   "includeUnlinkedEvents": false,
 
+  "promoCode": "LITTLEBELLIES",
+
   "bookingLinkOverrides": {
     "PEB/SP": null,
     "BF/SP": null,
