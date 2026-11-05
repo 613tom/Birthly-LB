@@ -228,7 +228,14 @@ export function buildPayload({ courseRecords, eventRecords, config, now = new Da
     const override = Object.prototype.hasOwnProperty.call(config.bookingLinkOverrides, code)
       ? config.bookingLinkOverrides[code]
       : undefined;
-    const bookingLink = override !== undefined && override !== null ? override : course.bookingLink;
+    
+    // MODIFIED: Changed from const to let, and added globalPromoCode handling
+    let bookingLink = override !== undefined && override !== null ? override : course.bookingLink;
+
+    if (bookingLink && config.globalPromoCode) {
+      const separator = bookingLink.includes('?') ? '&' : '?';
+      bookingLink = `${bookingLink}${separator}code=${config.globalPromoCode}`;
+    }
 
     if (!bookingLink && offerings.length) {
       warnings.push(`${course.name} (${code}): ${offerings.length} offering(s) with no booking link.`);
