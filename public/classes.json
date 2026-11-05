@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T14:07:53.315Z",
+  "generatedAt": "2026-11-05T14:22:38.328Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-09T14:07:53.315Z",
+  "horizon": "2027-03-09T14:22:38.328Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -13,7 +13,7 @@
       "topics": "8 key topics",
       "category": "Early Pregnancy",
       "image": "https://www.mybirthly.com/wp-content/uploads/early-pregnancy-prep.jpeg",
-      "bookingLink": "https://mybirthly.vhx.tv/checkout/early-pregnancy-preparations-live-classes/purchase?purchase=1",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/early-pregnancy-preparations-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
         {
           "incomplete": false,
@@ -62,7 +62,7 @@
       "topics": "10 key topics",
       "category": "Second Trimester • Third Trimester",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
-      "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
         {
           "incomplete": true,
@@ -163,7 +163,7 @@
       "topics": "5 key topics",
       "category": "Second Trimester • Third Trimester",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-3.jpg",
-      "bookingLink": "https://mybirthly.vhx.tv/checkout/coping-and-comfort-live-classes/purchase?purchase=1",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/coping-and-comfort-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
         {
           "incomplete": false,
@@ -254,7 +254,7 @@
       "topics": "9 key topics",
       "category": "Third Trimester • Breastfeeding • Newborn Care",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
-      "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
         {
           "incomplete": false,
@@ -373,7 +373,7 @@
       "topics": "8 key topics",
       "category": "Third Trimester • Newborn Care",
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
-      "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
         {
           "incomplete": false,
@@ -471,7 +471,7 @@
       "topics": "7 key topics",
       "category": "Third Trimester • Newborn Care",
       "image": "https://www.mybirthly.com/wp-content/uploads/Infant-Safety-Basics-Class-Image-scaled.png",
-      "bookingLink": "https://mybirthly.vhx.tv/checkout/infant-safety-basics-live-classes/purchase?purchase=1",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/infant-safety-basics-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
         {
           "incomplete": false,
@@ -527,7 +527,7 @@
       "topics": "8 key topics",
       "category": "Early Pregnancy • Second Trimester • Third Trimester",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/PMH.webp",
-      "bookingLink": "https://mybirthly.vhx.tv/checkout/perinatal-mental-health-live-classes/purchase?purchase=1",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/perinatal-mental-health-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
         {
           "incomplete": false,
@@ -597,7 +597,7 @@
       "topics": "1 focus",
       "category": "All Trimesters + Post Delivery",
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-14.jpg",
-      "bookingLink": "https://mybirthly.vhx.tv/checkout/live-classes-prenatal-yoga/purchase?purchase=1",
+      "bookingLink": "https://mybirthly.vhx.tv/checkout/live-classes-prenatal-yoga/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
         {
           "incomplete": false,
