@@ -2,6 +2,46 @@ const MONTH_MS = 1000 * 60 * 60 * 24 * 31;
 
 
 
+const PROMO_HOST_SUFFIX = "vhx.tv";
+
+
+
+// Appends the shared coupon code to a Vimeo OTT checkout URL.
+
+// Uses URLSearchParams so the ?/& separator is always correct, and leaves
+
+// the link alone if it already carries its own code= (per-course opt-out).
+
+function withPromoCode(link, code) {
+
+  if (!code || !link) return link;
+
+  if (!/^https?:/i.test(link)) return link;
+
+  let u;
+
+  try {
+
+    u = new URL(link);
+
+  } catch {
+
+    return link;
+
+  }
+
+  if (u.hostname !== PROMO_HOST_SUFFIX && !u.hostname.endsWith("." + PROMO_HOST_SUFFIX)) return link;
+
+  if (u.searchParams.has("code")) return link;
+
+  u.searchParams.set("code", code);
+
+  return u.toString();
+
+}
+
+
+
 function zonedOffsetMs(utcMs, timeZone) {
 
   const dtf = new Intl.DateTimeFormat("en-US", {
@@ -458,7 +498,9 @@ export function buildPayload({ courseRecords, eventRecords, config, now = new Da
 
       : undefined;
 
-    const bookingLink = override !== undefined && override !== null ? override : course.bookingLink;
+    const resolvedLink = override !== undefined && override !== null ? override : course.bookingLink;
+
+    const bookingLink = withPromoCode(resolvedLink, config.promoCode);
 
 
 
