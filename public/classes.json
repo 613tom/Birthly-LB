@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T06:17:01.171Z",
+  "generatedAt": "2026-11-05T02:25:30.813Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-08T06:17:01.171Z",
+  "horizon": "2027-03-09T02:25:30.813Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -15,13 +15,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/early-pregnancy-prep.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/early-pregnancy-preparations-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Anna King",
-          "sessions": [
-            "2026-11-04T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anna King",
@@ -264,13 +257,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Alex Strouse",
-          "sessions": [
-            "2026-11-04T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Samantha Kauffman",
@@ -786,13 +772,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Paula Rosello",
-          "sessions": [
-            "2026-11-04T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Paula Rosello",
