@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T00:13:49.542Z",
+  "generatedAt": "2026-11-06T06:46:17.583Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-10T00:13:49.542Z",
+  "horizon": "2027-03-10T06:46:17.583Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -64,13 +64,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": true,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-11-06T02:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Cali Judson",
@@ -375,13 +368,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Rachel Latchford ",
-          "sessions": [
-            "2026-11-06T01:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Rachel Latchford ",
