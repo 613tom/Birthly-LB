@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T14:22:38.328Z",
+  "generatedAt": "2026-11-06T00:13:49.542Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-09T14:22:38.328Z",
+  "horizon": "2027-03-10T00:13:49.542Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -183,7 +183,7 @@
           "incomplete": false,
           "instructor": "Leigh Kader",
           "sessions": [
-            "2026-11-16T23:30:00.000Z"
+            "2026-11-17T23:30:00.000Z"
           ]
         },
         {
@@ -813,13 +813,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Puri Carvajal",
-          "sessions": [
-            "2026-11-05T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Erika Perez",
