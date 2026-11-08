@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T18:46:06.639Z",
+  "generatedAt": "2026-11-08T21:09:20.236Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-11T18:46:06.639Z",
+  "horizon": "2027-03-12T21:09:20.236Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -456,13 +456,6 @@
           "incomplete": false,
           "instructor": "Anna King",
           "sessions": [
-            "2026-11-08T21:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Anna King",
-          "sessions": [
             "2026-11-12T23:30:00.000Z"
           ]
         },
@@ -792,13 +785,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Erika Perez",
-          "sessions": [
-            "2026-11-08T17:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Erika Perez",
