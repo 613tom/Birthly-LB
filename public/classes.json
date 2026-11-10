@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T21:09:20.236Z",
+  "generatedAt": "2026-11-10T02:06:00.698Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-12T21:09:20.236Z",
+  "horizon": "2027-03-14T02:06:00.698Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -501,13 +501,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/PMH.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/perinatal-mental-health-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Gabrielle Hathaway",
-          "sessions": [
-            "2026-11-09T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
