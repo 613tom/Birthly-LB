@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T02:06:00.698Z",
+  "generatedAt": "2026-11-10T09:46:38.105Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-14T02:06:00.698Z",
+  "horizon": "2027-03-14T09:46:38.105Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -780,16 +780,16 @@
       "offerings": [
         {
           "incomplete": false,
-          "instructor": "Erika Perez",
+          "instructor": "Puri Carvajal",
           "sessions": [
-            "2026-11-15T17:00:00.000Z"
+            "2026-11-19T23:30:00.000Z"
           ]
         },
         {
           "incomplete": false,
-          "instructor": "Puri Carvajal",
+          "instructor": "Erika Perez",
           "sessions": [
-            "2026-11-19T23:30:00.000Z"
+            "2026-11-29T17:00:00.000Z"
           ]
         },
         {
