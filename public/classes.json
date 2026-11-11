@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T09:46:38.105Z",
+  "generatedAt": "2026-11-11T06:12:47.448Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-14T09:46:38.105Z",
+  "horizon": "2027-03-15T06:12:47.448Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -244,13 +244,6 @@
       "offerings": [
         {
           "incomplete": false,
-          "instructor": "Samantha Kauffman",
-          "sessions": [
-            "2026-11-10T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
           "instructor": "Alex Strouse",
           "sessions": [
             "2026-11-11T23:30:00.000Z"
@@ -361,13 +354,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Rachel Latchford ",
-          "sessions": [
-            "2026-11-11T01:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Cali Judson",
@@ -568,13 +554,6 @@
           "incomplete": false,
           "instructor": "Jen Stewart",
           "sessions": [
-            "2026-11-11T01:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Jen Stewart",
-          "sessions": [
             "2026-11-12T13:00:00.000Z"
           ]
         },
@@ -684,10 +663,9 @@
       "bookingLink": null,
       "offerings": [
         {
-          "incomplete": false,
+          "incomplete": true,
           "instructor": "Ana Greene",
           "sessions": [
-            "2026-11-11T01:00:00.000Z",
             "2026-11-12T01:00:00.000Z"
           ]
         },
