@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T18:53:34.202Z",
+  "generatedAt": "2026-11-13T00:20:12.197Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-16T18:53:34.202Z",
+  "horizon": "2027-03-17T00:20:12.197Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -151,13 +151,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-3.jpg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/coping-and-comfort-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Leigh Kader",
-          "sessions": [
-            "2026-11-12T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Leigh Kader",
@@ -424,13 +417,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/Infant-Safety-Basics-Class-Image-scaled.png",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/infant-safety-basics-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Anna King",
-          "sessions": [
-            "2026-11-12T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anna King",
