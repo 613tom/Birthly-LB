@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T17:05:07.467Z",
+  "generatedAt": "2026-11-14T21:28:10.693Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-18T17:05:07.467Z",
+  "horizon": "2027-03-18T21:28:10.693Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -649,13 +649,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Paula Rosello",
-          "sessions": [
-            "2026-11-14T18:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Paula Rosello",
