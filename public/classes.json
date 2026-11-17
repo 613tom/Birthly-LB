@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T17:07:25.554Z",
+  "generatedAt": "2026-11-17T03:50:38.138Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-19T17:07:25.554Z",
+  "horizon": "2027-03-21T03:50:38.138Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -220,13 +220,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/breastfeeding-101-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Samantha Kauffman",
-          "sessions": [
-            "2026-11-16T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Alex Strouse",
