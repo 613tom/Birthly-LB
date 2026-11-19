@@ -14,8 +14,6 @@
       showLess: "Show fewer dates",
       showAllDates: "Show all upcoming dates",
       sessionsLabel: function (n) { return n + " sessions"; },
-      upcomingTitle: "Upcoming dates",
-      selectedDateTitle: "Selected date",
       calHint: "Highlighted dates have classes · Click a date to filter",
       noDates: "No dates scheduled right now.",
       loading: "Loading classes…",
@@ -36,8 +34,6 @@
       showLess: "Ver menos fechas",
       showAllDates: "Ver todas las fechas",
       sessionsLabel: function (n) { return n + " sesiones"; },
-      upcomingTitle: "Próximas fechas",
-      selectedDateTitle: "Fecha seleccionada",
       calHint: "Fechas marcadas tienen clase · Haz clic para filtrar",
       noDates: "No hay fechas programadas.",
       loading: "Cargando clases…",
@@ -96,48 +92,46 @@
     ".bec__body{display:grid;grid-template-columns:280px 1fr;background:#fff}",
 
     /* Mini Calendar */
-    ".bec__calwrap{padding:16px 18px;border-right:1px solid var(--rule);background:#FCFAFB}",
-    ".bec__calhead{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}",
-    ".bec__calmonth{font-size:14px;color:var(--ink);letter-spacing:.01em}",
-    ".bec__calnav{display:flex;gap:4px}",
+    ".bec__calwrap{padding:24px;border-right:1px solid var(--rule);background:#FCFAFB;display:flex;flex-direction:column;justify-content:center}",
+    ".bec__calhead{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}",
+    ".bec__calmonth{font-size:15px;color:var(--ink);letter-spacing:.01em}",
+    ".bec__calnav{display:flex;gap:6px}",
     ".bec__calbtn{appearance:none;background:#fff;border:1px solid var(--rule);color:var(--ink);",
-    "width:26px;height:26px;border-radius:6px;font:inherit;font-size:13px;cursor:pointer;display:flex;align-items:center;justify-content:center}",
+    "width:28px;height:28px;border-radius:6px;font:inherit;font-size:14px;cursor:pointer;display:flex;align-items:center;justify-content:center}",
     ".bec__calbtn:hover:not(:disabled){border-color:var(--pink-dark);color:var(--pink-dark)}",
     ".bec__calbtn:disabled{opacity:.35;cursor:default}",
-    ".bec__calgrid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px;text-align:center}",
-    ".bec__caldow{font-size:11px;color:var(--muted);padding-bottom:4px}",
-    ".bec__calday{aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;font-size:12px;",
+    ".bec__calgrid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;text-align:center}",
+    ".bec__caldow{font-size:12px;color:var(--muted);padding-bottom:8px}",
+    ".bec__calday{aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;font-size:13px;",
     "border-radius:50%;border:1px solid transparent;background:transparent;color:var(--muted);padding:0;font-family:inherit}",
     ".bec__calday--empty{visibility:hidden}",
-    ".bec__calday--has{background:var(--pink-tint);color:#8E4F70;border-color:var(--pink-mid);cursor:pointer}",
-    ".bec__calday--has:hover{border-color:var(--pink-dark);background:#F2DCE8}",
-    ".bec__calday--active{background:var(--pink-dark);color:#fff;border-color:var(--pink-dark)}",
+    /* REMOVED PINK HIGHLIGHT: Now just bold text with a subtle hover effect */
+    ".bec__calday--has{color:var(--ink);font-weight:bold;cursor:pointer}",
+    ".bec__calday--has:hover{background:#F6F6F6;border-color:var(--rule)}",
+    ".bec__calday--active{background:var(--pink-dark);color:#fff;border-color:var(--pink-dark);font-weight:bold}",
     ".bec__calday--active:hover{background:#8E4F70;color:#fff}",
     ".bec__calhint{margin:10px 0 0;font-size:11px;color:var(--muted);line-height:1.35}",
 
     /* Compact Dates Panel */
-    ".bec__dateswrap{display:flex;flex-direction:column;justify-content:space-between}",
-    ".bec__datesbar{display:flex;align-items:center;justify-content:space-between;gap:8px;",
-    "padding:12px 20px 8px;border-bottom:1px solid var(--rule-soft)}",
-    ".bec__dateslabel{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}",
-    ".bec__reset{appearance:none;background:none;border:0;padding:0;font:inherit;font-size:12px;color:var(--pink-dark);cursor:pointer;text-decoration:underline}",
+    ".bec__dateswrap{display:flex;flex-direction:column;justify-content:space-between;padding-top:10px}",
+    ".bec__datestop{padding:0 10px}",
     ".bec__dates{margin:0;padding:0;list-style:none}",
     ".bec__date{display:flex;justify-content:space-between;align-items:center;gap:10px;",
-    "padding:9px 20px;border-bottom:1px solid var(--rule-soft)}",
-    ".bec__dateline{font-size:13.5px;color:var(--ink);line-height:1.35}",
-    ".bec__datemeta{color:var(--muted);font-size:12.5px}",
+    "padding:12px 16px;border-bottom:1px solid var(--rule-soft)}",
+    ".bec__dateline{font-size:14px;color:var(--ink);line-height:1.4}",
+    ".bec__datemeta{color:var(--muted);font-size:13px}",
     ".bec__pill{font-size:11px;color:#8E4F70;background:var(--pink-tint);padding:2px 9px;",
     "border-radius:999px;white-space:nowrap;flex:none}",
-    ".bec__more{appearance:none;background:none;border:0;border-bottom:1px solid var(--rule-soft);",
-    "width:100%;text-align:left;padding:9px 20px;font:inherit;font-size:13px;color:var(--pink-dark);cursor:pointer}",
+    ".bec__more{appearance:none;background:none;border:0;width:100%;text-align:left;padding:12px 16px;",
+    "font:inherit;font-size:13.5px;color:var(--pink-dark);cursor:pointer}",
     ".bec__more:hover{background:#FDF8FB}",
     ".bec__more:focus-visible{outline:2px solid var(--pink-dark);outline-offset:-2px}",
 
     /* Card Footer */
-    ".bec__foot{padding:14px 20px;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;background:#FAFAFA}",
-    ".bec__note{font-size:12px;color:var(--muted)}",
+    ".bec__foot{padding:16px 24px;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;background:#FAFAFA;border-top:1px solid var(--rule)}",
+    ".bec__note{font-size:12.5px;color:var(--muted)}",
     ".bec__cta{display:inline-block;background:var(--pink-dark);color:#fff;text-decoration:none;",
-    "border-radius:999px;padding:11px 24px;font-size:13.5px;line-height:1;transition:background .15s ease}",
+    "border-radius:999px;padding:12px 26px;font-size:14px;line-height:1;transition:background .15s ease}",
     ".bec__cta:hover{background:#8E4F70;color:#fff}",
     ".bec__cta:focus-visible{outline:2px solid var(--ink);outline-offset:2px}",
     ".bec__cta--quiet{background:#fff;color:var(--pink-dark);border:1px solid var(--pink-dark)}",
@@ -159,6 +153,7 @@
     ".bec__cta{text-align:center}}"
   ].join("");
 
+  /* Set initial dates to 4 to match the mockup */
   var INITIAL_DATES = 4;
 
   function el(tag, cls, text) {
@@ -315,20 +310,13 @@
 
     var calGrid = el("div", "bec__calgrid");
     calWrap.appendChild(calGrid);
-    calWrap.appendChild(el("p", "bec__calhint", copy.calHint));
     body.appendChild(calWrap);
 
     /* Right: Compact Dates + Footer */
     var datesWrap = el("div", "bec__dateswrap");
-    var datesTop = el("div");
-    var datesBar = el("div", "bec__datesbar");
-    var datesLabel = el("span", "bec__dateslabel", copy.upcomingTitle);
-    var resetBtn = el("button", "bec__reset", copy.showAllDates);
-    resetBtn.type = "button";
-    resetBtn.style.display = "none";
-    datesBar.appendChild(datesLabel);
-    datesBar.appendChild(resetBtn);
-    datesTop.appendChild(datesBar);
+    
+    // REMOVED The Upcoming Dates header block here
+    var datesTop = el("div", "bec__datestop");
 
     var list = el("ul", "bec__dates");
     datesTop.appendChild(list);
@@ -407,13 +395,9 @@
       var source = selectedDayKey ? (dayMap[selectedDayKey] || []) : course.offerings;
 
       if (selectedDayKey) {
-        datesLabel.textContent = copy.selectedDateTitle;
-        resetBtn.style.display = "inline";
         source.forEach(function (o) { list.appendChild(renderDate(o, tz, copy)); });
         moreBtn.style.display = "none";
       } else {
-        datesLabel.textContent = copy.upcomingTitle;
-        resetBtn.style.display = "none";
         var visible = expanded ? source : source.slice(0, INITIAL_DATES);
         visible.forEach(function (o) { list.appendChild(renderDate(o, tz, copy)); });
 
@@ -438,12 +422,6 @@
       viewMonth++;
       if (viewMonth > 11) { viewMonth = 0; viewYear++; }
       drawCalendar();
-    });
-
-    resetBtn.addEventListener("click", function () {
-      selectedDayKey = null;
-      drawCalendar();
-      drawDates();
     });
 
     moreBtn.addEventListener("click", function () {
