@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T21:30:06.065Z",
+  "generatedAt": "2026-11-19T23:36:56.315Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-23T21:30:06.065Z",
+  "horizon": "2027-03-23T23:36:56.315Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -465,13 +465,6 @@
       "offerings": [
         {
           "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-11-19T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
           "instructor": "Cali Judson",
           "sessions": [
             "2026-11-21T15:00:00.000Z"
@@ -645,13 +638,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/PMH.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/perinatal-mental-health-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Gabrielle Hathaway",
-          "sessions": [
-            "2026-11-19T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
@@ -978,13 +964,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Puri Carvajal",
-          "sessions": [
-            "2026-11-19T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Erika Perez",
