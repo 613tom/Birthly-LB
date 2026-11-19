@@ -57,21 +57,22 @@
     ".bec__brand img{height:38px;width:auto;display:block}",
     ".bec__x{color:var(--hair);font-size:15px}",
 
-    /* Sticky Two-Tier Navigation */
+    /* Sticky Two-Tier Navigation (Mockup Match) */
     ".bec__nav{position:sticky;top:0;z-index:10;background:rgba(255,255,255,0.97);",
-    "backdrop-filter:blur(4px);padding:10px 0 14px;border-bottom:1px solid var(--rule);margin-bottom:20px}",
-    ".bec__filters{display:flex;gap:8px;flex-wrap:wrap;margin:0;padding:0;list-style:none}",
+    "backdrop-filter:blur(4px);padding:10px 0 20px;margin-bottom:20px}", /* Removed solid border bottom */
+    ".bec__filters{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 16px;padding:0 0 16px;list-style:none;",
+    "border-bottom:1px dashed var(--rule)}", /* Added dashed rule */
     ".bec__filter{appearance:none;background:#fff;border:1px solid var(--hair);color:var(--ink);",
-    "border-radius:999px;padding:7px 16px;font:inherit;font-size:13.5px;cursor:pointer;line-height:1.2;transition:all .15s ease}",
+    "border-radius:999px;padding:8px 20px;font:inherit;font-size:14px;cursor:pointer;line-height:1.2;transition:all .15s ease}",
     ".bec__filter:hover{border-color:var(--pink-dark);color:var(--pink-dark)}",
     ".bec__filter[aria-pressed=true]{background:var(--pink-dark);border-color:var(--pink-dark);color:#fff}",
     ".bec__filter:focus-visible{outline:2px solid var(--pink-dark);outline-offset:2px}",
     ".bec__count{opacity:.75;margin-left:5px;font-size:12px}",
 
-    /* Class Quick-Jump Pills */
-    ".bec__classnav{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px dashed var(--rule)}",
+    /* Class Quick-Jump Pills (Mockup Match) */
+    ".bec__classnav{display:flex;gap:8px;flex-wrap:wrap;margin:0;padding:0}", /* Removed top border */
     ".bec__cpill{appearance:none;background:var(--panel);border:1px solid transparent;color:var(--ink);",
-    "border-radius:999px;padding:5px 12px;font:inherit;font-size:12.5px;cursor:pointer;line-height:1.25;transition:all .15s ease}",
+    "border-radius:999px;padding:8px 16px;font:inherit;font-size:13.5px;cursor:pointer;line-height:1.25;transition:all .15s ease}",
     ".bec__cpill:hover{border-color:var(--pink-dark);color:var(--pink-dark);background:#fff}",
     ".bec__cpill[aria-pressed=true]{background:var(--pink-tint);border-color:var(--pink-dark);color:#8E4F70}",
     ".bec__cpill:focus-visible{outline:2px solid var(--pink-dark);outline-offset:2px}",
@@ -105,7 +106,6 @@
     ".bec__calday{aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;font-size:13px;",
     "border-radius:50%;border:1px solid transparent;background:transparent;color:var(--muted);padding:0;font-family:inherit}",
     ".bec__calday--empty{visibility:hidden}",
-    /* REMOVED PINK HIGHLIGHT: Now just bold text with a subtle hover effect */
     ".bec__calday--has{color:var(--ink);font-weight:bold;cursor:pointer}",
     ".bec__calday--has:hover{background:#F6F6F6;border-color:var(--rule)}",
     ".bec__calday--active{background:var(--pink-dark);color:#fff;border-color:var(--pink-dark);font-weight:bold}",
@@ -117,7 +117,7 @@
     ".bec__datestop{padding:0 10px}",
     ".bec__dates{margin:0;padding:0;list-style:none}",
     ".bec__date{display:flex;justify-content:space-between;align-items:center;gap:10px;",
-    "padding:12px 16px;border-bottom:1px solid var(--rule-soft)}",
+    "padding:16px 20px;border-bottom:1px solid var(--rule-soft)}",
     ".bec__dateline{font-size:14px;color:var(--ink);line-height:1.4}",
     ".bec__datemeta{color:var(--muted);font-size:13px}",
     ".bec__pill{font-size:11px;color:#8E4F70;background:var(--pink-tint);padding:2px 9px;",
@@ -216,7 +216,6 @@
     var card = el("article", "bec__card");
     card.id = "bec-course-" + course.code.replace(/[^a-zA-Z0-9]/g, "-");
 
-    /* Card Header with Description */
     var head = el("div", "bec__head");
     if (course.image) {
       var img = el("img", "bec__thumb");
@@ -247,7 +246,6 @@
     head.appendChild(meta);
     card.appendChild(head);
 
-    /* Map offerings by YYYY-MM-DD for Calendar */
     var dayMap = {};
     var allKeys = [];
     course.offerings.forEach(function (o) {
@@ -264,7 +262,6 @@
     });
     allKeys.sort();
 
-    /* Determine initial calendar month from first available class */
     var startYear, startMonth;
     if (allKeys.length) {
       var parts = allKeys[0].split("-").map(Number);
@@ -288,10 +285,8 @@
     var selectedDayKey = null;
     var expanded = false;
 
-    /* Split Body */
     var body = el("div", "bec__body");
 
-    /* Left: Mini Calendar */
     var calWrap = el("div", "bec__calwrap");
     var calHead = el("div", "bec__calhead");
     var calMonthLabel = el("span", "bec__calmonth");
@@ -312,7 +307,6 @@
     calWrap.appendChild(calGrid);
     body.appendChild(calWrap);
 
-    /* Right: Compact Dates + Footer */
     var datesWrap = el("div", "bec__dateswrap");
     var datesTop = el("div", "bec__datestop");
 
@@ -324,7 +318,6 @@
     datesTop.appendChild(moreBtn);
     datesWrap.appendChild(datesTop);
 
-    /* Card Footer CTA */
     var foot = el("div", "bec__foot");
     var link = course.bookingLink || opts.fallbackHref;
     var isFallback = !course.bookingLink;
@@ -438,7 +431,6 @@
       fallbackHref: root.getAttribute("data-contact") || "",
       logoHost: root.getAttribute("data-logo-host") || "",
       logoBirthly: root.getAttribute("data-logo-birthly") || "",
-      /* MODIFIED: Default language changed to English */
       defaultLang: root.getAttribute("data-language") || "English"
     };
 
@@ -556,7 +548,6 @@
           });
         }
 
-        /* MODIFIED: Removed the "all" toggle option from the array */
         [["English", COPY.English.english], ["Spanish", COPY.English.spanish]]
           .forEach(function (pair) {
             var key = pair[0];
