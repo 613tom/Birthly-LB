@@ -57,11 +57,11 @@
     ".bec__brand img{height:38px;width:auto;display:block}",
     ".bec__x{color:var(--hair);font-size:15px}",
 
-    /* Sticky Two-Tier Navigation (Mockup Match) */
+    /* Sticky Two-Tier Navigation */
     ".bec__nav{position:sticky;top:0;z-index:10;background:rgba(255,255,255,0.97);",
-    "backdrop-filter:blur(4px);padding:10px 0 20px;margin-bottom:20px}", /* Removed solid border bottom */
+    "backdrop-filter:blur(4px);padding:10px 0 20px;margin-bottom:20px}", 
     ".bec__filters{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 16px;padding:0 0 16px;list-style:none;",
-    "border-bottom:1px dashed var(--rule)}", /* Added dashed rule */
+    "border-bottom:1px dashed var(--rule)}", 
     ".bec__filter{appearance:none;background:#fff;border:1px solid var(--hair);color:var(--ink);",
     "border-radius:999px;padding:8px 20px;font:inherit;font-size:14px;cursor:pointer;line-height:1.2;transition:all .15s ease}",
     ".bec__filter:hover{border-color:var(--pink-dark);color:var(--pink-dark)}",
@@ -69,8 +69,8 @@
     ".bec__filter:focus-visible{outline:2px solid var(--pink-dark);outline-offset:2px}",
     ".bec__count{opacity:.75;margin-left:5px;font-size:12px}",
 
-    /* Class Quick-Jump Pills (Mockup Match) */
-    ".bec__classnav{display:flex;gap:8px;flex-wrap:wrap;margin:0;padding:0}", /* Removed top border */
+    /* Class Quick-Jump Pills */
+    ".bec__classnav{display:flex;gap:8px;flex-wrap:wrap;margin:0;padding:0}", 
     ".bec__cpill{appearance:none;background:var(--panel);border:1px solid transparent;color:var(--ink);",
     "border-radius:999px;padding:8px 16px;font:inherit;font-size:13.5px;cursor:pointer;line-height:1.25;transition:all .15s ease}",
     ".bec__cpill:hover{border-color:var(--pink-dark);color:var(--pink-dark);background:#fff}",
@@ -110,7 +110,8 @@
     ".bec__calday--has:hover{background:#F6F6F6;border-color:var(--rule)}",
     ".bec__calday--active{background:var(--pink-dark);color:#fff;border-color:var(--pink-dark);font-weight:bold}",
     ".bec__calday--active:hover{background:#8E4F70;color:#fff}",
-    ".bec__calhint{margin:10px 0 0;font-size:11px;color:var(--muted);line-height:1.35}",
+    /* HIDDEN HINT */
+    ".bec__calhint{display:none}", 
 
     /* Compact Dates Panel */
     ".bec__dateswrap{display:flex;flex-direction:column;justify-content:space-between;padding-top:10px}",
@@ -122,14 +123,15 @@
     ".bec__datemeta{color:var(--muted);font-size:13px}",
     ".bec__pill{font-size:11px;color:#8E4F70;background:var(--pink-tint);padding:2px 9px;",
     "border-radius:999px;white-space:nowrap;flex:none}",
-    ".bec__more{appearance:none;background:none;border:0;width:100%;text-align:left;padding:12px 16px;",
-    "font:inherit;font-size:13.5px;color:var(--pink-dark);cursor:pointer}",
-    ".bec__more:hover{background:#FDF8FB}",
-    ".bec__more:focus-visible{outline:2px solid var(--pink-dark);outline-offset:-2px}",
+    
+    /* HIDDEN TOGGLE */
+    ".bec__more{display:none}", 
 
     /* Card Footer */
     ".bec__foot{padding:16px 24px;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;background:#FAFAFA;border-top:1px solid var(--rule)}",
-    ".bec__note{font-size:12.5px;color:var(--muted)}",
+    /* HIDDEN NOTE */
+    ".bec__note{display:none}", 
+    
     ".bec__cta{display:inline-block;background:var(--pink-dark);color:#fff;text-decoration:none;",
     "border-radius:999px;padding:12px 26px;font-size:14px;line-height:1;transition:background .15s ease}",
     ".bec__cta:hover{background:#8E4F70;color:#fff}",
@@ -149,11 +151,10 @@
     ".bec__head{flex-direction:column;gap:12px;padding:16px}",
     ".bec__thumb{width:100%;height:140px}",
     ".bec__date{padding:9px 16px}",
-    ".bec__foot{flex-direction:column;align-items:stretch;padding:14px 16px}",
+    ".bec__foot{flex-direction:column;align-items:stretch;padding:14px 16px;justify-content:flex-end}", 
     ".bec__cta{text-align:center}}"
   ].join("");
 
-  /* Set initial dates to 4 to match the mockup */
   var INITIAL_DATES = 4;
 
   function el(tag, cls, text) {
@@ -305,6 +306,7 @@
 
     var calGrid = el("div", "bec__calgrid");
     calWrap.appendChild(calGrid);
+
     body.appendChild(calWrap);
 
     var datesWrap = el("div", "bec__dateswrap");
@@ -313,15 +315,16 @@
     var list = el("ul", "bec__dates");
     datesTop.appendChild(list);
 
-    var moreBtn = el("button", "bec__more");
-    moreBtn.type = "button";
-    datesTop.appendChild(moreBtn);
     datesWrap.appendChild(datesTop);
 
     var foot = el("div", "bec__foot");
+    
+    // Right-align CTA
+    foot.style.justifyContent = "flex-end"; 
+
     var link = course.bookingLink || opts.fallbackHref;
     var isFallback = !course.bookingLink;
-    foot.appendChild(el("span", "bec__note", isFallback ? "" : copy.oneLink));
+
     if (link) {
       var a = el("a", "bec__cta" + (isFallback ? " bec__cta--quiet" : ""),
         isFallback ? copy.askAbout : copy.book);
@@ -387,19 +390,9 @@
 
       if (selectedDayKey) {
         source.forEach(function (o) { list.appendChild(renderDate(o, tz, copy)); });
-        moreBtn.style.display = "none";
       } else {
         var visible = expanded ? source : source.slice(0, INITIAL_DATES);
         visible.forEach(function (o) { list.appendChild(renderDate(o, tz, copy)); });
-
-        var hidden = source.length - INITIAL_DATES;
-        if (hidden > 0) {
-          moreBtn.style.display = "block";
-          moreBtn.textContent = expanded ? copy.showLess : copy.showMore(hidden);
-          moreBtn.setAttribute("aria-expanded", String(expanded));
-        } else {
-          moreBtn.style.display = "none";
-        }
       }
     }
 
@@ -413,11 +406,6 @@
       viewMonth++;
       if (viewMonth > 11) { viewMonth = 0; viewYear++; }
       drawCalendar();
-    });
-
-    moreBtn.addEventListener("click", function () {
-      expanded = !expanded;
-      drawDates();
     });
 
     drawCalendar();
