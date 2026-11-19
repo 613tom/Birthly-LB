@@ -31,7 +31,7 @@
       book: "Reservar esta clase",
       oneLink: "Un enlace para todas las fechas",
       showMore: function (n) { return "Ver " + n + " fecha" + (n === 1 ? "" : "s") + " más"; },
-      showLess: "Ver menos fechas",
+      showLess: "Ver menos dates",
       showAllDates: "Ver todas las fechas",
       sessionsLabel: function (n) { return n + " sesiones"; },
       calHint: "Fechas marcadas tienen clase · Haz clic para filtrar",
@@ -314,8 +314,6 @@
 
     /* Right: Compact Dates + Footer */
     var datesWrap = el("div", "bec__dateswrap");
-    
-    // REMOVED The Upcoming Dates header block here
     var datesTop = el("div", "bec__datestop");
 
     var list = el("ul", "bec__dates");
@@ -440,7 +438,8 @@
       fallbackHref: root.getAttribute("data-contact") || "",
       logoHost: root.getAttribute("data-logo-host") || "",
       logoBirthly: root.getAttribute("data-logo-birthly") || "",
-      defaultLang: root.getAttribute("data-language") || "all"
+      /* MODIFIED: Default language changed to English */
+      defaultLang: root.getAttribute("data-language") || "English"
     };
 
     root.className = (root.className ? root.className + " " : "") + "bec";
@@ -557,10 +556,10 @@
           });
         }
 
-        [["all", COPY.English.all], ["English", COPY.English.english], ["Spanish", COPY.English.spanish]]
+        /* MODIFIED: Removed the "all" toggle option from the array */
+        [["English", COPY.English.english], ["Spanish", COPY.English.spanish]]
           .forEach(function (pair) {
             var key = pair[0];
-            if (key !== "all" && !counts[key]) return;
             var b = el("button", "bec__filter");
             b.type = "button";
             b.dataset.lang = key;
