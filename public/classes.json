@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T23:36:56.315Z",
+  "generatedAt": "2026-11-20T03:11:42.473Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-23T23:36:56.315Z",
+  "horizon": "2027-03-24T03:11:42.473Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -78,13 +78,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": true,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-11-20T02:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anne Hoover",
