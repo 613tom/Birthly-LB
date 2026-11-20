@@ -143,6 +143,11 @@
 
   function pad2(n) { return (n < 10 ? "0" : "") + n; }
 
+  // English unless the page explicitly asks for Spanish (any casing, "es", "Español", etc.)
+  function normalizeLang(value) {
+    return /^(es|spa|spanish|español)/i.test(String(value || "").trim()) ? "Spanish" : "English";
+  }
+
   function getDateKey(iso, tz) {
     return new Intl.DateTimeFormat("en-CA", {
       timeZone: tz, year: "numeric", month: "2-digit", day: "2-digit"
@@ -372,7 +377,7 @@
       fallbackHref: root.getAttribute("data-contact") || "",
       logoHost: root.getAttribute("data-logo-host") || "",
       logoBirthly: root.getAttribute("data-logo-birthly") || "",
-      defaultLang: root.getAttribute("data-language") || "English"
+      defaultLang: normalizeLang(root.getAttribute("data-language"))
     };
 
     root.className = (root.className ? root.className + " " : "") + "bec";
@@ -429,6 +434,7 @@
         live.setAttribute("role", "status");
         live.setAttribute("aria-live", "polite");
 
+        // English is preselected on load (Spanish only if data-language asks for it)
         var currentLang = opts.defaultLang;
         var currentCourse = "all";
 
@@ -456,7 +462,7 @@
         function draw() {
           results.innerHTML = "";
           var langFiltered = courses.filter(function (c) {
-            return currentLang === "all" || c.language === currentLang;
+            return c.language === currentLang;
           });
           if (currentCourse !== "all" && !langFiltered.some(function (c) { return c.code === currentCourse; })) {
             currentCourse = "all";
@@ -483,6 +489,7 @@
           var b = el("button", "bec__filter");
           b.type = "button";
           b.dataset.lang = key;
+          b.setAttribute("aria-pressed", String(key === currentLang));
           b.appendChild(document.createTextNode(pair[1]));
           b.appendChild(el("span", "bec__count", String(counts[key])));
           b.addEventListener("click", function () {
