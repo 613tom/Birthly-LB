@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T17:29:09.641Z",
+  "generatedAt": "2026-11-21T23:13:18.237Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-25T17:29:09.641Z",
+  "horizon": "2027-03-25T23:13:18.237Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -79,10 +79,9 @@
       "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
         {
-          "incomplete": false,
+          "incomplete": true,
           "instructor": "Anne Hoover",
           "sessions": [
-            "2026-11-21T19:30:00.000Z",
             "2026-11-22T19:30:00.000Z"
           ]
         },
@@ -873,13 +872,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/womanbreastfeeding1.webp",
       "bookingLink": null,
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Paula Rosello",
-          "sessions": [
-            "2026-11-21T18:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Paula Rosello",
