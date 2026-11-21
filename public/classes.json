@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T01:31:18.042Z",
+  "generatedAt": "2026-11-21T17:29:09.641Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-25T01:31:18.042Z",
+  "horizon": "2027-03-25T17:29:09.641Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -311,13 +311,6 @@
       "offerings": [
         {
           "incomplete": false,
-          "instructor": "Meagan Curry",
-          "sessions": [
-            "2026-11-21T15:00:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
           "instructor": "Alex Strouse",
           "sessions": [
             "2026-11-23T23:30:00.000Z"
@@ -456,13 +449,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Cali Judson",
-          "sessions": [
-            "2026-11-21T15:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Jenny Selig",
