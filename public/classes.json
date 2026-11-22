@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T23:13:18.237Z",
+  "generatedAt": "2026-11-22T19:35:54.877Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-25T23:13:18.237Z",
+  "horizon": "2027-03-26T19:35:54.877Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -78,13 +78,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": true,
-          "instructor": "Anne Hoover",
-          "sessions": [
-            "2026-11-22T19:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anne Hoover",
@@ -203,13 +196,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-3.jpg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/coping-and-comfort-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Leigh Kader",
-          "sessions": [
-            "2026-11-22T15:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Leigh Kader",
