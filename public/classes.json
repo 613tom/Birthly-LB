@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T19:35:54.877Z",
+  "generatedAt": "2026-11-24T05:59:25.386Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-26T19:35:54.877Z",
+  "horizon": "2027-03-28T05:59:25.386Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -298,13 +298,6 @@
           "incomplete": false,
           "instructor": "Alex Strouse",
           "sessions": [
-            "2026-11-23T23:30:00.000Z"
-          ]
-        },
-        {
-          "incomplete": false,
-          "instructor": "Alex Strouse",
-          "sessions": [
             "2026-11-30T23:30:00.000Z"
           ]
         },
@@ -595,13 +588,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/PMH.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/perinatal-mental-health-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Gabrielle Hathaway",
-          "sessions": [
-            "2026-11-23T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Gabrielle Hathaway",
