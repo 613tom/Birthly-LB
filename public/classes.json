@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T02:24:21.073Z",
+  "generatedAt": "2026-11-26T05:00:11.305Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-29T02:24:21.073Z",
+  "horizon": "2027-03-30T05:00:11.305Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -78,13 +78,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/iStock-12011768161.webp",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/prenatal-education-bootcamp-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": true,
-          "instructor": "Anne Hoover",
-          "sessions": [
-            "2026-11-25T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Anne Hoover",
@@ -426,13 +419,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/newborn-care-scaled.jpeg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/newborn-care-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Jenny Selig",
-          "sessions": [
-            "2026-11-25T23:30:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Cali Judson",
