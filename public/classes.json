@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T05:00:11.305Z",
+  "generatedAt": "2026-11-28T18:55:10.803Z",
   "timezone": "America/New_York",
-  "horizon": "2027-03-30T05:00:11.305Z",
+  "horizon": "2027-04-01T18:55:10.803Z",
   "courses": [
     {
       "code": "EP/EN",
@@ -188,13 +188,6 @@
       "image": "https://www.mybirthly.com/wp-content/uploads/2025/11/image-3.jpg",
       "bookingLink": "https://mybirthly.vhx.tv/checkout/coping-and-comfort-live-classes/purchase?purchase=1&code=LITTLEBELLIES",
       "offerings": [
-        {
-          "incomplete": false,
-          "instructor": "Leigh Kader",
-          "sessions": [
-            "2026-11-28T16:00:00.000Z"
-          ]
-        },
         {
           "incomplete": false,
           "instructor": "Leigh Kader",
